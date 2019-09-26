@@ -8,5 +8,6 @@ a{
 a:hover{
     font-size: 30pt;
     cursor: pointer;
-    transition: font-size 1s;
+    color: red;
+    transition: font-size 1s,color;
 }
